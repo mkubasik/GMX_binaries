@@ -10,7 +10,9 @@ To run a Gromacs tutorial of protein simulation, scaffolded in a Jupyter noteboo
 This notebook will load and position precompiled gromacs binaries on a Colab instance running metered T4 GPU acceration.  If the command "gmx --version" of the notebook fails to provide output, then Gromacs is not installed properly.  Two options:
 
 * Please try again...sometimes Google's resources fail to perform on a first try.
-* Alternatively, it is possible updates to the Colab ecosystem are incompatible with the posted binaries.  If you suspect an incompatibility, the notebook "Compile_Gromacs..." may be downloaded to recompile Gromacs.  It may take an hour or more to compile Gromacs on Colab, consuming a great deal of a day's free GPU access.  
+* Alternatively, it is possible updates to the Colab ecosystem are incompatible with the posted binaries.  If you suspect an incompatibility, the notebook "Compile_Gromacs..." may be downloaded to recompile Gromacs.  It may take an hour or more to compile Gromacs on Colab, consuming a great deal of a day's free GPU access.
+  The notebook to compile gromacs according to the "Installation...Quick and Dirty Install" is linked here:
+  <a href="https://colab.research.google.com/github/mkubasik/GMX_binaries/blob/main/Compile_Gromacs2025_2_Colab_GPU.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 
