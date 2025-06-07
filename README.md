@@ -20,6 +20,8 @@ This notebook will load and position precompiled gromacs binaries on a Colab ins
 
 ## Run on RunPod.io
 
-RunPod.io is a paid service providing cloud-based GPU computing.
+RunPod.io is a paid service providing cloud-based GPU computing.  Request a Pod using an NVIDIA RTX GPU, a RunPod Pytorch template (e.g. 2.4.0), and connect via Jupyter Lab.
+
+Once Jupyter Lab is spun up, open a terminal.  Issue the git command "git clone https://github.com/mkubasik/GMX_on_Runpod".  There are two notebooks.  One initializes the Pod and gives you the URL and password to open a NEW Jupyter Lab browser tab.  Open the Tutorial notebook IN THE NEW TAB, and gromacs should work.
 
 
