@@ -1,7 +1,9 @@
 
 
-# GROMACS_binaries for Google's Colab and RunPod.io
+# GROMACS binaries for Google's Colab and RunPod.io
 Compilations of GROMACS for GPU Hardware of Google Colab (T4, as of 6/6/2025) and NVIDIA RTX series.
+
+## Run on Colab (free)
 
 To run these resources on Colab, a Google gmail account is required.  As of 6/6/2025, gmail accounts provide access to Colab as well as Google Drive.
 
@@ -16,6 +18,8 @@ This notebook will load and position precompiled gromacs binaries on a Colab ins
   A notebook to compile Gromacs on a T4 instance of Google's colab,according to the "Installation...Quick and Dirty Install", is linked here: 
   <a href="https://colab.research.google.com/github/mkubasik/gmx_on_colab/blob/main/Compile_Gromacs2025_2_Colab_GPU.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+## Run on RunPod.io
 
+RunPod.io is a paid service providing cloud-based GPU computing.
 
 
