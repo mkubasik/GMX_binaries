@@ -1,7 +1,7 @@
 
 
 # GROMACS binaries for Google's Colab and RunPod.io
-Compilations of GROMACS for GPU Hardware of Google Colab (T4, as of 6/6/2025) and NVIDIA RTX series.
+Compilations of GROMACS for GPU Hardware of Google Colab (T4, as of 6/6/2025) and RunPod.io hosting NVIDIA RTX series GPUs.
 
 ## Run on Colab (free)
 
